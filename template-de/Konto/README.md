@@ -41,6 +41,12 @@ Dateien unverändert in den Ordner der Bank legen. Doppelte Exporte schaden nich
 
 Nach jedem Bau: alles in „Sonstiges" mit Gläubiger-ID oder hohem Betrag bekommt eine Regel in `anbieter.py`.
 
+## Budgetprognose
+
+Das Monatsbudget von [PARTNER] nach dem Tod (Einkommen mit Hinterbliebenenrente gegenüber den Ausgaben je Kategorie,
+Sterbevierteljahr und dauerhaft) wird auf dieser Tabelle aufgebaut. Methode und fertiger Auftrag für den Assistenten:
+`docs/14-budget-forecast.md` im Estate-OS-Kit.
+
 ## Regeln
 
 Die xlsx wird immer neu gebaut, nie von Hand bearbeitet. Excel vorher schließen. In erzeugten Formeln nur Funktionen,

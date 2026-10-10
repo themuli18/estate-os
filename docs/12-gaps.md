@@ -14,7 +14,7 @@ ordered by how much they matter for a Dutch household.
 | **MT940 parser isn't implemented** | Some banks or older accounts only offer MT940 | Described in `docs/11` §4. The SEPA field parser already handles the `:86:` notation |
 | **No PDF statement parser for Dutch banks** | Older periods are often only available as PDF | Use the reconciliation method in `docs/11` §5 for each bank |
 | **No credit card parser** | ICS-issued cards and similar have their own exports | Add a parser per card issuer, following the same pattern |
-| **Budget forecast ("Prognose") not ported** | The German original projected the survivor's monthly budget after pension changes | Specification in `docs/11` §6. Build it once AOW and partner pension amounts are known |
+| **Budget forecast not built into the templates** | The forecast depends on country rules and the family's decisions, so it's generated per family | Method and agent prompt in `docs/14-budget-forecast.md`. Build it once the pension amounts are known |
 
 ## German variant
 
@@ -23,7 +23,7 @@ ordered by how much they matter for a Dutch household.
 | Sparkasse/DKB/ING-DE column names unverified on real exports | They fail loudly on a missing column. Adjust the column list |
 | Only one PDF bank (Commerzbank) | Other banks follow the `commerzbank_pdf.py` pattern |
 | No Volksbank/Postbank/Deutsche Bank CSV parsers | Prefer camt.053 where offered |
-| No budget forecast (the original had one, inside a larger personal workbook) | Specification in `docs/11` §6 |
+| No built-in budget forecast | Method and agent prompt in `docs/14-budget-forecast.md` |
 
 ## Automation not packaged
 

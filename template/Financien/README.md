@@ -40,6 +40,12 @@ worden gemeld als „onbekend formaat". De build doet het volgende:
 
 Na elke build: alles in „Overig" met een incassant-ID of een groot bedrag krijgt een regel in `leveranciers.py`.
 
+## Budgetprognose
+
+Het maandbudget van [PARTNER] na het overlijden (inkomen na wegvallen AOW/pensioen [OVERLEDENE] tegenover de
+uitgaven per categorie) wordt op deze tabel gebouwd. Methode en kant-en-klare opdracht voor de assistent:
+`docs/14-budget-forecast.md` in de Estate OS-kit.
+
 ## Een nieuwe bank toevoegen
 
 Zie `docs/11-bank-parsers.md` in de Estate OS-kit. Kort: een functie in `csv_nl.py` (of een nieuw bestand) die een

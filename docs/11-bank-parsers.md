@@ -123,9 +123,8 @@ amount and average per year. The agent then:
 3. Adds every action to `TODO.md` and every provider to `CLAUDE.md` §8.
 4. Marks anything deliberately ignored as such, so the next run doesn't raise it again.
 
-Optional next step: a **Prognose** tab with the survivor's monthly budget after the death (income after the
-deceased's AOW and pension stop, plus survivor's pension; fixed costs per category from the last 12 months,
-excluding one-off purchases). The German original had this. It isn't in the Dutch template yet.
+Next step: the survivor's **budget forecast** built on top of this table. See
+[14-budget-forecast.md](14-budget-forecast.md) for the method and a ready-to-use agent prompt.
 
 ## 7. Pitfalls
 

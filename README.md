@@ -30,6 +30,7 @@ person or an AI agent can follow them.
 | [`docs/12-gaps.md`](docs/12-gaps.md) | What is missing, untested or deliberately left out | English |
 | [`template/`](template/) | The repository to copy: control files, folders, tools (incl. bank parsers), skills | **Dutch** |
 | [`docs/13-germany.md`](docs/13-germany.md) | German variant: folders, tools, German bank parsers (camt.053, Sparkasse, DKB, ING, Commerzbank PDF), workstreams | English |
+| [`docs/14-budget-forecast.md`](docs/14-budget-forecast.md) | How to build the survivor's budget forecast (income after the death vs. spending per category), plus a copy-paste agent prompt | English |
 | [`template-de/`](template-de/) | The German repository to copy: same structure, German law and banks | **German** |
 | [`packages/mailmcp/`](packages/mailmcp/) | Mail MCP server source: multi-account Gmail/Calendar/Drive MCP, read + drafts only | English |
 | [`tests/`](tests/) | Bank-parser tests (Dutch and German) on synthetic fixtures | — |

@@ -125,6 +125,7 @@ Check: `controleer_archief.py` clean; index counters match; `tekstlaag.py --cont
    `Documenten/06_Woning_energie_en_gemeente/00_Leveranciersoverzicht.md`: per contract provider, number (cross-checked
    against mandate reference), holder, amount, frequency, action (transfer/cancel/keep), deadline.
 4. Every action → `TODO.md`; every deadline → §7; every provider → §8.
+5. Once pension amounts are known, offer the survivor's budget forecast (`docs/14-budget-forecast.md`).
 
 Check: every recurring debit of the last 12 months appears in an overview or is explicitly marked "bewust genegeerd".
 
