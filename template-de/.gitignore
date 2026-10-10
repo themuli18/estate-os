@@ -1,0 +1,18 @@
+# Excel-Sperrdateien, macOS-Metadaten, Python-Caches
+~$*.xlsx
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+
+# Kompilierte OCR-Programme
+_tools/.ocr-bin
+_tools/.ocr-boxes-bin
+
+# Unveränderte Original-Exporte (Duplikate der einsortierten Dateien)
+Dokumente/_Original/
+Dokumente/*.zip
+
+# Geheimnisse gehören nie in dieses Repository
+.env
+*.pfx

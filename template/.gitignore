@@ -1,0 +1,18 @@
+# Excel-lockbestanden, macOS-metadata, Python-caches
+~$*.xlsx
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+
+# Gecompileerde OCR-binaries
+_tools/.ocr-bin
+_tools/.ocr-boxes-bin
+
+# Onbewerkte originele exports (duplicaten van de ingedeelde bestanden)
+Documenten/_Origineel/
+Documenten/*.zip
+
+# Geheimen horen nooit in deze repo
+.env
+*.pfx

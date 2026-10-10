@@ -1,0 +1,19 @@
+                                                              Kontoauszug vom 31.01.2026
+                                                              Auszug-Nr.  1
+   IBAN: DE00 6000 0000 0000 0000 06
+   Alter Kontostand vom 31.12.2025                                          1.000,00
+   Angaben zu den Umsätzen
+   Buchungsdatum: 15.01.2026
+   Beispiel Versicherung AG                                       15.01       23,40-
+     Beitrag Hausrat 12345678
+     SEPA-BASISLASTSCHRIFT wiederholend
+     DE00200000000000000099
+     BEISDEXXXXX
+     End-to-End-Ref.:
+     NOTPROVIDED
+     Mandatsref: VS-12345678
+     Gläubiger-ID: DE00ZZZ00000000001
+   Buchungsdatum: 30.01.2026
+   Deutsche Rentenversicherung                                    30.01    1.250,00
+     Rente 02/2026
+   Neuer Kontostand vom 31.01.2026                                          2.226,60

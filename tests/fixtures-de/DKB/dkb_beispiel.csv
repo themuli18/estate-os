@@ -1,0 +1,8 @@
+"Girokonto";"DE00120300000000000002"
+""
+"Kontostand vom 28.02.2026:";"1.000,00 €"
+""
+"Buchungsdatum";"Wertstellung";"Status";"Zahlungspflichtige*r";"Zahlungsempfänger*in";"Verwendungszweck";"Umsatztyp";"IBAN";"Betrag (€)";"Gläubiger-ID";"Mandatsreferenz";"Kundenreferenz"
+"03.02.26";"03.02.26";"Gebucht";"Max Muster";"Beispiel Stadtwerke GmbH";"Abschlag Strom Kd 4711";"Ausgang";"DE00500000000000000055";"-80,00";"DE00ZZZ00000000003";"SW-4711";""
+"03.01.26";"03.01.26";"Gebucht";"Max Muster";"Beispiel Stadtwerke GmbH";"Abschlag Strom Kd 4711";"Ausgang";"DE00500000000000000055";"-80,00";"DE00ZZZ00000000003";"SW-4711";""
+"10.01.26";"10.01.26";"Gebucht";"Max Muster";"Max Muster";"Sparen";"Ausgang";"DE00100000000000000001";"-50,00";"";"";""

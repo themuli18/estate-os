@@ -1,0 +1,5 @@
+pypdf
+reportlab
+openpyxl
+# optional, nur für _tools/transkribiere.sh (Apple Silicon):
+# mlx-whisper

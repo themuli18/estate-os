@@ -1,0 +1,17 @@
+services:
+  mailmcp:
+    build: .
+    image: mailmcp:latest
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      PORT: "3000"
+      DB_PATH: /data/mailmcp.db
+    # Localhost only: reachable from the host's cloudflared tunnel, not the LAN.
+    ports:
+      - "127.0.0.1:${HOST_PORT:-2310}:3000"
+    volumes:
+      - mailmcp-data:/data
+
+volumes:
+  mailmcp-data:

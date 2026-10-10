@@ -1,0 +1,8 @@
+   Abrechnung Mastercard Premium (Kreditkarte) vom 24.01.2026
+   999999******1234  Max Muster                                  4.700 EUR
+   Abrechnungssaldo vom 24.12.2025                                       -100,00
+   Umsatzdatum  Buchungsdatum
+   10.01.2026   11.01.2026   Beispiel Tankstelle                        -45,10
+   12.01.2026   13.01.2026   SHOP LONDON 20,00 GBP 1,1700               -23,40
+   20.01.2026   20.01.2026   Lastschrifteinzug                          100,00
+   Abrechnungssaldo                                                     -68,50

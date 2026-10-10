@@ -1,0 +1,15 @@
+Umsatzanzeige;Datei erstellt am: 01.03.2026 10:00
+;Letztes Update: aktuell
+
+IBAN;DE00 5001 0517 0000 0000 03
+Kontoname;Girokonto
+Bank;ING
+Kunde;Max Muster
+Zeitraum;01.01.2026 - 28.02.2026
+Saldo;950,00;EUR
+
+Sortierung;Datum absteigend
+
+Buchung;Valuta;Auftraggeber/Empfänger;Buchungstext;Verwendungszweck;Saldo;Währung;Betrag;Währung
+20.02.2026;20.02.2026;Beispiel Streaming GmbH;Lastschrift;EREF+E2E-2 MREF+ABO-9 CRED+DE00ZZZ00000000004 SVWZ+Abo Februar;950,00;EUR;-9,99;EUR
+20.01.2026;20.01.2026;Beispiel Streaming GmbH;Lastschrift;EREF+E2E-1 MREF+ABO-9 CRED+DE00ZZZ00000000004 SVWZ+Abo Januar;959,99;EUR;-9,99;EUR
